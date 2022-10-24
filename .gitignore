@@ -1,0 +1,7 @@
+/coverage
+/build
+.DS_Store
+.env
+
+/.idea
+# understand
