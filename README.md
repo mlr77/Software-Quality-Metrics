@@ -2,4 +2,5 @@
 ## Assignment 2
 
 Prof. Anthony Peruma
+
 Michael Rogers, Graduate Student, Department of Information and Computer Sciences
